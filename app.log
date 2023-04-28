@@ -1,0 +1,270 @@
+{
+  "choices": [
+    {
+      "finish_reason": "length",
+      "index": 0,
+      "logprobs": null,
+      "text": " and traction is best. They should wear good quality winter boots with traction, ankle support or insulated, waterproof, non-slip soles. They should carry a pair of running shoes or cross-trainers. In snow, they should use running or walking poles to help avoid slips, trips and falls.\n\nYoungsters should wear boots and waterproof, insulated clothing. They should carry a scarf and a winter jacket in case they get cold or wet. They should also carry gloves, a hat"
+    }
+  ],
+  "created": 1682636092,
+  "id": "cmpl-7A4nkw1ZKmdY8pVvIc0vgi40xWCv4",
+  "model": "davinci:ft-personal-2023-04-27-20-59-56",
+  "object": "text_completion",
+  "usage": {
+    "completion_tokens": 100,
+    "prompt_tokens": 6,
+    "total_tokens": 106
+  }
+}
+ and traction is best. They should wear good quality winter boots with traction, ankle support or insulated, waterproof, non-slip soles. They should carry a pair of running shoes or cross-trainers. In snow, they should use running or walking poles to help avoid slips, trips and falls.
+
+Youngsters should wear boots and waterproof, insulated clothing. They should carry a scarf and a winter jacket in case they get cold or wet. They should also carry gloves, a hat
+{
+  "choices": [
+    {
+      "finish_reason": "length",
+      "index": 0,
+      "logprobs": null,
+      "text": "?\n\nNever. \n\nWhen is it legal for a driver or passenger in a vehicle to have an open container of cannabis product?\n\nNever. \n\nWhen is it legal to have any amount of marijuana in your blood while driving?\n\nNever. \n\nWhat are the laws for carrying marijuana and marijuana products underage?\n\nIt is illegal for anyone under 21 years of age to possess or use recreational marijuana products, period.\n\nAre employers allowed to have"
+    }
+  ],
+  "created": 1682636180,
+  "id": "cmpl-7A4pACDkFjTNHBpLk1rOO3zlSvjDJ",
+  "model": "davinci:ft-personal-2023-04-27-20-59-56",
+  "object": "text_completion",
+  "usage": {
+    "completion_tokens": 100,
+    "prompt_tokens": 17,
+    "total_tokens": 117
+  }
+}
+?
+
+Never. 
+
+When is it legal for a driver or passenger in a vehicle to have an open container of cannabis product?
+
+Never. 
+
+When is it legal to have any amount of marijuana in your blood while driving?
+
+Never. 
+
+What are the laws for carrying marijuana and marijuana products underage?
+
+It is illegal for anyone under 21 years of age to possess or use recreational marijuana products, period.
+
+Are employers allowed to have
+what does blue curbs mean
+Context: Traffic rules in California
+
+What does blue curbs mean
+A blue curb is used to mark no parking zones.
+
+What does Blue Cross/Blue Shield mean
+Blue Cross/Blue Shield is a health insurance company.
+
+What does Blue Cross/Blue Shield mean
+Blue Cross/Blue Shield is a health insurance company.
+
+What does Blue Cross/Blue Shield mean
+Blue Cross/Blue Shield is a health insurance company.
+
+What does Blue Cross/Blue Shield mean
+Blue Cross/Blue Shield
+When is it legal for a driver or a passenger in a vehicle to eat cannabis products?
+Context: Traffic rules in California
+
+
+Never.
+what does blue curbs mean?
+Context: Traffic rules in California
+
+
+What does blue curbs mean?
+when should I treat lines as a barrier?
+Context: Traffic rules in California
+
+
+Threats to public safety
+how to deal with Slippery roads skids?
+Context: Traffic rules in California
+
+
+How to deal with Slippery roads skids?
+Can I parallel park?
+Context: Traffic rules in California
+
+{
+  "choices": [
+    {
+      "finish_reason": "length",
+      "index": 0,
+      "logprobs": null,
+      "text": "Can I ride a bike on the sidewalk?\nContext: Traffic rules in California\nCan I ride my bike on the sidewalk?\nContext: Traffic rules in California\nCan I ride my bike on the sidewalk?\nContext: Traffic rules in California\nCan I ride my bike on the sidewalk?\nContext: Traffic rules in California\nCan I ride my bike on the sidewalk?\nContext: Traffic rules in California\nCan I ride my bike on the sidewalk?\nContext: Traffic rules in"
+    }
+  ],
+  "created": 1682638939,
+  "id": "cmpl-7A5XfvzAIxMrrXjlRcwbUAVzrFTU1",
+  "model": "davinci:ft-personal-2023-04-27-20-59-56",
+  "object": "text_completion",
+  "usage": {
+    "completion_tokens": 100,
+    "prompt_tokens": 13,
+    "total_tokens": 113
+  }
+}
+tell me traffic rules when the traffic lights are flashing yellow ?
+Context: Traffic rules in California
+
+{
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "text": ""
+    }
+  ],
+  "created": 1682639222,
+  "id": "cmpl-7A5cEc5Mfsq8xUtj8jZ9cKJSJu5kD",
+  "model": "davinci:ft-personal-2023-04-27-20-59-56",
+  "object": "text_completion",
+  "usage": {
+    "prompt_tokens": 20,
+    "total_tokens": 20
+  }
+}
+Can a driver or a passenger in a vehicle eat cannabis products?
+Context: Traffic rules in California
+
+{
+  "choices": [
+    {
+      "finish_reason": "length",
+      "index": 0,
+      "logprobs": null,
+      "text": "No. \u00a0Under no circumstances is it legal for a driver or passenger to eat cannabis products while in a vehicle. \u00a0This includes when the vehicle is parked. \u00a0It is illegal to be under the influence of marijuana while driving or riding in any vehicle, including bikes and boats. \u00a0It is illegal to have an open container of marijuana in a vehicle. \u00a0It is illegal to have any amount of marijuana products in a vehicle if the vehicle is being operated. \u00a0It"
+    }
+  ],
+  "created": 1682639340,
+  "id": "cmpl-7A5e82o5Q1JBkqFVP9u3rWIESoV2x",
+  "model": "davinci:ft-personal-2023-04-27-20-59-56",
+  "object": "text_completion",
+  "usage": {
+    "completion_tokens": 100,
+    "prompt_tokens": 21,
+    "total_tokens": 121
+  }
+}
+tell me the traffic rules when the traffic light is flashing yellow?
+Context: Traffic rules in California
+
+{
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "text": "\nWhen the traffic light is flashing yellow, you should slow down and prepare to stop."
+    }
+  ],
+  "created": 1682641062,
+  "id": "cmpl-7A65uJEmHlvL2C2Gqxo2w3aPhINt2",
+  "model": "davinci:ft-personal-2023-04-27-20-59-56",
+  "object": "text_completion",
+  "usage": {
+    "completion_tokens": 18,
+    "prompt_tokens": 21,
+    "total_tokens": 39
+  }
+}
+what should I do when driving in heavy fog?
+Context: Traffic rules in California
+
+{
+  "choices": [
+    {
+      "finish_reason": null,
+      "index": 0,
+      "logprobs": null,
+      "text": "What should I do when driving in heavy fog?\nLook out for other vehicles leaving space between you and them.\nLook out for other vehicles leaving space between you and them.\nUnderstand that it will take longer to stop.\nUnderstand that it will take longer to stop.\nSlow down and leave plenty of room between you and the vehicle ahead.\nSlow down and leave plenty of room between you and the vehicle ahead."
+    }
+  ],
+  "created": 1682641425,
+  "id": "cmpl-7A6Bl7qFVCftLTrwdZqu8IWcamFty",
+  "model": "davinci:ft-personal-2023-04-27-20-59-56",
+  "object": "text_completion",
+  "usage": {
+    "completion_tokens": 88,
+    "prompt_tokens": 18,
+    "total_tokens": 106
+  }
+}
+tell me the traffic rules when the traffic light is flashing yellow?
+Context: Traffic rules in California
+
+{
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "text": "\nWhen the traffic light is flashing yellow, you should slow down and prepare to stop."
+    }
+  ],
+  "created": 1682641563,
+  "id": "cmpl-7A6DzxymsdByYouApwTDzVggH4nhD",
+  "model": "davinci:ft-personal-2023-04-27-20-59-56",
+  "object": "text_completion",
+  "usage": {
+    "completion_tokens": 18,
+    "prompt_tokens": 21,
+    "total_tokens": 39
+  }
+}
+Can a driver or a passenger in a vehicle eat cannabis products?
+Context: Traffic rules in California
+
+{
+  "choices": [
+    {
+      "finish_reason": "length",
+      "index": 0,
+      "logprobs": null,
+      "text": "No. \u00a0Under no circumstances is it legal for a driver or passenger to eat cannabis products while in a vehicle. \u00a0This includes when the vehicle is parked. \u00a0It is illegal to be under the influence of marijuana while driving or riding in any vehicle, including bikes and boats. \u00a0It is illegal to have an open container of marijuana in a vehicle. \u00a0It is illegal to have any amount of marijuana products in a vehicle if the vehicle is being operated. \u00a0It is illegal to have an open container of marijuana products in a vehicle if the vehicle is parked. \u00a0It is illegal to have any amount of marijuana products in a vehicle if the vehicle is parked in a place where it is not legal to park or"
+    }
+  ],
+  "created": 1682641598,
+  "id": "cmpl-7A6EYZrzoM8tq1zHtwpd3wdGvvTMn",
+  "model": "davinci:ft-personal-2023-04-27-20-59-56",
+  "object": "text_completion",
+  "usage": {
+    "completion_tokens": 150,
+    "prompt_tokens": 21,
+    "total_tokens": 171
+  }
+}
+Can a driver or a passenger in a vehicle eat cannabis products?
+Context: Traffic rules in California
+
+{
+  "choices": [
+    {
+      "finish_reason": null,
+      "index": 0,
+      "logprobs": null,
+      "text": "No. \u00a0Under no circumstances is it legal for a driver or passenger to eat cannabis products while in a vehicle.\nCan I have an open container of cannabis while in a vehicle?\n"
+    }
+  ],
+  "created": 1682641767,
+  "id": "cmpl-7A6HH6aZphSAQR14ViAtHSNVg1o04",
+  "model": "davinci:ft-personal-2023-04-27-20-59-56",
+  "object": "text_completion",
+  "usage": {
+    "completion_tokens": 39,
+    "prompt_tokens": 21,
+    "total_tokens": 60
+  }
+}
