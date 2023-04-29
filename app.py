@@ -6,7 +6,7 @@ import logging
 
 app = Flask(__name__)
 CORS(app)
-openai.api_key = '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'
+openai.api_key = ''
 
 app.logger.setLevel(logging.INFO)
 handler = logging.FileHandler('app.log')
