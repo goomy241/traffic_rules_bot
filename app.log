@@ -268,3 +268,399 @@ Context: Traffic rules in California
     "total_tokens": 60
   }
 }
+tell me the traffic rules when the traffic light is flashing yellow?
+Context: Traffic rules in California
+
+{
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "text": "\nWhen the traffic light is flashing yellow, you should slow down and prepare to stop."
+    }
+  ],
+  "created": 1682713029,
+  "id": "cmpl-7AOof2oTkxjeQtYrK2ZehRzJN7lIX",
+  "model": "davinci:ft-personal-2023-04-27-20-59-56",
+  "object": "text_completion",
+  "usage": {
+    "completion_tokens": 18,
+    "prompt_tokens": 21,
+    "total_tokens": 39
+  }
+}
+tell me the traffic rules when the traffic light is flashing yellow?
+Context: Traffic rules in California
+
+{
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "text": "\nWhen the traffic light is flashing yellow, you should slow down and prepare to stop."
+    }
+  ],
+  "created": 1682722452,
+  "id": "cmpl-7ARGePgzK1pmKW81VhcvhptwP7rRN",
+  "model": "davinci:ft-personal-2023-04-27-20-59-56",
+  "object": "text_completion",
+  "usage": {
+    "completion_tokens": 18,
+    "prompt_tokens": 21,
+    "total_tokens": 39
+  }
+}
+test?
+Context: Traffic rules in California
+
+{
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "text": "\nAnswer: \nTest your knowledge."
+    }
+  ],
+  "created": 1682728655,
+  "id": "cmpl-7ASshQFX7uUWaLNcIPwzqEPbbrtWD",
+  "model": "davinci:ft-personal-2023-04-27-20-59-56",
+  "object": "text_completion",
+  "usage": {
+    "completion_tokens": 9,
+    "prompt_tokens": 10,
+    "total_tokens": 19
+  }
+}
+test?
+Context: Traffic rules in California
+
+{
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "text": "\nAnswer: \nTest your knowledge."
+    }
+  ],
+  "created": 1682728886,
+  "id": "cmpl-7ASwQbfffEl14EgBN7R84W1AUkF1S",
+  "model": "davinci:ft-personal-2023-04-27-20-59-56",
+  "object": "text_completion",
+  "usage": {
+    "completion_tokens": 9,
+    "prompt_tokens": 10,
+    "total_tokens": 19
+  }
+}
+test?
+Context: Traffic rules in California
+
+{
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "text": "\nAnswer: \nTest your knowledge."
+    }
+  ],
+  "created": 1682728890,
+  "id": "cmpl-7ASwU9jzDXgCaFllBqr0xy80TuLTv",
+  "model": "davinci:ft-personal-2023-04-27-20-59-56",
+  "object": "text_completion",
+  "usage": {
+    "completion_tokens": 9,
+    "prompt_tokens": 10,
+    "total_tokens": 19
+  }
+}
+tell me the traffic rules when the traffic light is flashing yellow?
+Context: Traffic rules in California
+
+{
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "text": "\nWhen the traffic light is flashing yellow, you should slow down and prepare to stop."
+    }
+  ],
+  "created": 1682729058,
+  "id": "cmpl-7ASzCfawCcvS1ToGZkykNBEjQ2aPu",
+  "model": "davinci:ft-personal-2023-04-27-20-59-56",
+  "object": "text_completion",
+  "usage": {
+    "completion_tokens": 18,
+    "prompt_tokens": 21,
+    "total_tokens": 39
+  }
+}
+test?
+Context: Traffic rules in California
+
+{
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "text": "\nAnswer: \nTest your knowledge.\n"
+    }
+  ],
+  "created": 1682729261,
+  "id": "cmpl-7AT2TEBGmVzqzFTMRPw4r3lycqtEv",
+  "model": "davinci:ft-personal-2023-04-27-20-59-56",
+  "object": "text_completion",
+  "usage": {
+    "completion_tokens": 10,
+    "prompt_tokens": 10,
+    "total_tokens": 20
+  }
+}
+test?
+Context: Traffic rules in California
+
+{
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "text": "\nAnswer: \nTest your knowledge.\n"
+    }
+  ],
+  "created": 1682729352,
+  "id": "cmpl-7AT3w3RAgj8pry5BOKnQtCjBdBqda",
+  "model": "davinci:ft-personal-2023-04-27-20-59-56",
+  "object": "text_completion",
+  "usage": {
+    "completion_tokens": 10,
+    "prompt_tokens": 10,
+    "total_tokens": 20
+  }
+}
+where are DMV??
+Context: Traffic rules in California
+
+{
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "text": "\nExplanation: DMV stands for Department of Motor Vehicles."
+    }
+  ],
+  "created": 1682729369,
+  "id": "cmpl-7AT4DWmrAGQLEaKBqoChVhcdVyWGP",
+  "model": "davinci:ft-personal-2023-04-27-20-59-56",
+  "object": "text_completion",
+  "usage": {
+    "completion_tokens": 13,
+    "prompt_tokens": 12,
+    "total_tokens": 25
+  }
+}
+What is red traffic light??
+Context: Traffic rules in California
+
+{
+  "choices": [
+    {
+      "finish_reason": null,
+      "index": 0,
+      "logprobs": null,
+      "text": "What does the red light mean?\nA red light means stop. \nWhat is yellow traffic light??\n"
+    }
+  ],
+  "created": 1682729692,
+  "id": "cmpl-7AT9QYqTPlMKRIzqvsiTjnlcEwqtd",
+  "model": "davinci:ft-personal-2023-04-27-20-59-56",
+  "object": "text_completion",
+  "usage": {
+    "completion_tokens": 23,
+    "prompt_tokens": 14,
+    "total_tokens": 37
+  }
+}
+tell me the traffic rules when the traffic light is flashing yellow?
+Context: Traffic rules in California
+
+{
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "text": "\nWhen the traffic light is flashing yellow, you should slow down and prepare to stop."
+    }
+  ],
+  "created": 1682729741,
+  "id": "cmpl-7ATADSZfRREGSGE4uEwSgBLC04k6R",
+  "model": "davinci:ft-personal-2023-04-27-20-59-56",
+  "object": "text_completion",
+  "usage": {
+    "completion_tokens": 18,
+    "prompt_tokens": 21,
+    "total_tokens": 39
+  }
+}
+tell me the traffic rules when the traffic light is flashing red?
+Context: Traffic rules in California
+
+{
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "text": "\nWhen the traffic light is flashing red, you must stop before entering the intersection."
+    }
+  ],
+  "created": 1682729760,
+  "id": "cmpl-7ATAWQVX3tdYbdDIaba2MnfHL6EKu",
+  "model": "davinci:ft-personal-2023-04-27-20-59-56",
+  "object": "text_completion",
+  "usage": {
+    "completion_tokens": 17,
+    "prompt_tokens": 21,
+    "total_tokens": 38
+  }
+}
+tell me the traffic rules when traffic light is flashing yellow?
+Context: Traffic rules in California
+
+{
+  "choices": [
+    {
+      "finish_reason": null,
+      "index": 0,
+      "logprobs": null,
+      "text": "\nWhen the yellow light is flashing, you must stop before entering the intersection."
+    }
+  ],
+  "created": 1682729859,
+  "id": "cmpl-7ATC7ZvIxCyn5k6tIzz2pxq6aVRPC",
+  "model": "davinci:ft-personal-2023-04-27-20-59-56",
+  "object": "text_completion",
+  "usage": {
+    "completion_tokens": 16,
+    "prompt_tokens": 20,
+    "total_tokens": 36
+  }
+}
+tell me the traffic rules when traffic light is flashing yellow?
+Context: Traffic rules in California
+
+{
+  "choices": [
+    {
+      "finish_reason": null,
+      "index": 0,
+      "logprobs": null,
+      "text": "\nWhen the yellow light is flashing, you must stop before entering the intersection."
+    }
+  ],
+  "created": 1682729926,
+  "id": "cmpl-7ATDCHrfHfAwzZCNh8cmnhKS3tHl1",
+  "model": "davinci:ft-personal-2023-04-27-20-59-56",
+  "object": "text_completion",
+  "usage": {
+    "completion_tokens": 16,
+    "prompt_tokens": 20,
+    "total_tokens": 36
+  }
+}
+tell me the traffic rules when traffic light is yellow?
+Context: Traffic rules in California
+
+{
+  "choices": [
+    {
+      "finish_reason": null,
+      "index": 0,
+      "logprobs": null,
+      "text": "\nWhen the light turns yellow, you should slow down and prepare to stop."
+    }
+  ],
+  "created": 1682730036,
+  "id": "cmpl-7ATEy1tHhNXLSVaVuM6WYlrD4lk4L",
+  "model": "davinci:ft-personal-2023-04-27-20-59-56",
+  "object": "text_completion",
+  "usage": {
+    "completion_tokens": 16,
+    "prompt_tokens": 19,
+    "total_tokens": 35
+  }
+}
+tell me the traffic rules when traffic light is red?
+Context: Traffic rules in California
+
+{
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "text": "\nWhen the red light is flashing, you must stop."
+    }
+  ],
+  "created": 1682730273,
+  "id": "cmpl-7ATIneC1f9e2q6CjWEo17zHImuti1",
+  "model": "davinci:ft-personal-2023-04-27-20-59-56",
+  "object": "text_completion",
+  "usage": {
+    "completion_tokens": 12,
+    "prompt_tokens": 19,
+    "total_tokens": 31
+  }
+}
+tell me the traffic rules when traffic light is yellow?
+Context: Traffic rules in California
+
+{
+  "choices": [
+    {
+      "finish_reason": null,
+      "index": 0,
+      "logprobs": null,
+      "text": "\nWhen the light turns yellow, you should slow down and prepare to stop."
+    }
+  ],
+  "created": 1682730302,
+  "id": "cmpl-7ATJGtGF5Rmhm2fbDsm15If7TU8ag",
+  "model": "davinci:ft-personal-2023-04-27-20-59-56",
+  "object": "text_completion",
+  "usage": {
+    "completion_tokens": 16,
+    "prompt_tokens": 19,
+    "total_tokens": 35
+  }
+}
+tell me the traffic rules when traffic light is red?
+Context: Traffic rules in California
+
+{
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "text": "\nWhen the red light is flashing, you must stop."
+    }
+  ],
+  "created": 1682730314,
+  "id": "cmpl-7ATJS0bvq0Xn8YJtF4Ym3xSnGs7E8",
+  "model": "davinci:ft-personal-2023-04-27-20-59-56",
+  "object": "text_completion",
+  "usage": {
+    "completion_tokens": 12,
+    "prompt_tokens": 19,
+    "total_tokens": 31
+  }
+}
